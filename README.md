@@ -3,6 +3,8 @@
 
 Este proyecto está siendo creado unicamente por mi para entender mejor el funcionamiento del framework flask y mejorar la forma en la que programo con él. aún no está terminado, pero puede editar, actualizar, eliminar, insertar y leer datos de todas las tablas de la base de datos, a excepción de una, pero... ¡ya estoy por terminarla!.
 
+La API usa "session" para crear sesiones y evitar que se pueda acceder a ciertas rutas si no tienes el rol adecuado, esto se maneja con la tabla de "users" que se encuentra en la base de datos, sumado a ello, decir que dicha base de datos ya contiene registros de prueba.
+
 
 ## ¿Cómo puedes ejecutar el proyecto?
 
@@ -41,3 +43,5 @@ Por último, si por algún motivo no se installó flask_mysql usa:
 ```sh
 pip install flask flask_mysqldb
 ```
+
+
