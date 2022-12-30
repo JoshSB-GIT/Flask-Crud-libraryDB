@@ -1,0 +1,15 @@
+╭╮╱╭┳━━━┳╮╱╱╭╮╱╱╭━━━╮╭╮
+┃┃╱┃┃╭━━┫┃╱╱┃┃╱╱┃╭━╮┃┃┃
+┃╰━╯┃╰━━┫┃╱╱┃┃╱╱┃┃╱┃┃┃┃
+┃╭━╮┃╭━━┫┃╱╭┫┃╱╭┫┃╱┃┃╰╯
+┃┃╱┃┃╰━━┫╰━╯┃╰━╯┃╰━╯┃╭╮
+╰╯╱╰┻━━━┻━━━┻━━━┻━━━╯╰╯
+
+This small project was developed by me in order to understand how the Python framework "Flask" works, for the creation of APIs.
+If you have problems with the project it would be great if you check the "requirements.txt" file to install what the API needs to run.
+Use: "pip install -r requirements.txt".
+
+
+Este pequeño proyecto fue desarrollado por mi con el fin de entender el funcionamiento del framework "Flask" de Python, para la creación de APIs.
+Si tienes problemas con el proyecto sería genial que revisaras el archivo "requirements.txt" para que instales lo que la API necesita para correr.
+Usa: "pip install -r requirements.txt".

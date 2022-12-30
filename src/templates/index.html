@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRINCIPAL</title>
+</head>
+<body>
+    <center>
+        <form action="{{ url_for('uploadFile') }}" method="POST" autocomplete="off" enctype="multipart/form-data">
+            <div style="display: block;">
+                <label for="">Subir archivo</label>
+                <input type="file" name="file" id="">
+                <button type="submit">Subir</button>
+                <img src="" alt="">
+            </div>
+        </form>
+    </center>
+</body>
+</html>
